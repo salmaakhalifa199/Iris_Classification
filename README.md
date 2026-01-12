@@ -13,3 +13,9 @@ This project classifies Iris flowers using K-Nearest Neighbors (KNN) and perform
 ## Files
 - `Iris_Classification.ipynb`: Main Jupyter notebook
 - `IRIS.csv`: Iris dataset
+
+## Technologies Used:
+- Python
+- Pandas, NumPy
+- Scikit-Learn
+- Matplotlib, Seaborn
